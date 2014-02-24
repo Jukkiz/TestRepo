@@ -9,13 +9,13 @@ So as you are holding the tablet horizontally, you can use just your thumbs to n
 The navigation is split in to two groups. There is the primary group here at the left side, witch contains these sort of "first tier pages".
 Then there is this secondary group of links on the right hand side, witch contains tools specific to the page, that you chose from the left
 Then let's say you want to create a new test group, so you would go from left to right. First you tap / click from the left "Test group"-link and 
-then you got this second group of links here 
+then you got this second group of links here, where it says "Add Test Group"
 
 
 Kysymykset:
 
+In these tests, do you  always have specific group of people from certain age range at a time. Or is there situations where there can be bunch of twelve year olds and one retard.
 
-===================================================================
 
-
-tulostus.js + PHP
+What kind of printing did you have in mind ? Do you want just a simple list of names or do you want be able to take out the information about one test / player.
+===========================================================================================================================
