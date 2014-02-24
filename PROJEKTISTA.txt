@@ -1,0 +1,21 @@
+Hi !
+
+My name is Jere Borgelin and I'm going to give you more indepth look at the layout of the entire page.
+As you may have seen already, we have re-created the whole layout. 
+In the old layout it wasn't as easy to navigate your way around the page.
+Now in this layout it's quite the opposite. All the navigation is now located on both sides of the page.
+So as you are holding the tablet horizontally, you can use just your thumbs to navigate, without moving your hands.
+
+The navigation is split in to two groups. There is the primary group here at the left side, witch contains these sort of "first tier pages".
+Then there is this secondary group of links on the right hand side, witch contains tools specific to the page, that you chose from the left
+Then let's say you want to create a new test group, so you would go from left to right. First you tap / click from the left "Test group"-link and 
+then you got this second group of links here 
+
+
+Kysymykset:
+
+
+===================================================================
+
+
+tulostus.js + PHP
