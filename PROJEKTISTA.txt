@@ -1,3 +1,6 @@
+###
+Jukka muokkaa tähän ja committtaa. Sit jertsu ei päivitä ja muokkaa tonne ales
+###
 Hi !
 
 My name is Jere Borgelin and I'm going to give you more indepth look at the layout of the entire page.
@@ -16,6 +19,11 @@ Kysymykset:
 
 In these tests, do you  always have specific group of people from certain age range at a time. Or is there situations where there can be bunch of twelve year olds and one retard.
 
-
 What kind of printing did you have in mind ? Do you want just a simple list of names or do you want be able to take out the information about one test / player.
+
+
+######
+Jere muokkaa
+######
+
 ===========================================================================================================================
